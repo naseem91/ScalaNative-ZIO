@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="scalanative-zio$sources"
+		revision="0.1"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20190407112153"/>
+	<dependencies>
+		<module organisation="org.scala-native" name="scalalib_native0.3_2.11">
+			<revision name="0.3.8" status="release" pubdate="20180716174657" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-native.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html"/>
+				<metadata-artifact status="no" details="" size="3153" time="0" location="/root/.ivy2/cache/org.scala-native/scalalib_native0.3_2.11/ivy-0.3.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-native/scalalib_native0.3_2.11/0.3.8/scalalib_native0.3_2.11-0.3.8.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="0.3.8" rev-constraint-default="0.3.8" rev-constraint-dynamic="0.3.8" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="scalalib_native0.3_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="898332" time="0" location="/root/.ivy2/cache/org.scala-native/scalalib_native0.3_2.11/srcs/scalalib_native0.3_2.11-0.3.8-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-native/scalalib_native0.3_2.11/0.3.8/scalalib_native0.3_2.11-0.3.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-native" name="javalib_native0.3_2.11">
+			<revision name="0.3.8" status="release" pubdate="20180716175049" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-native.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="5">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html"/>
+				<metadata-artifact status="no" details="" size="2837" time="0" location="/root/.ivy2/cache/org.scala-native/javalib_native0.3_2.11/ivy-0.3.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-native/javalib_native0.3_2.11/0.3.8/javalib_native0.3_2.11-0.3.8.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="0.3.8" rev-constraint-default="0.3.8" rev-constraint-dynamic="0.3.8" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="javalib_native0.3_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="416851" time="0" location="/root/.ivy2/cache/org.scala-native/javalib_native0.3_2.11/srcs/javalib_native0.3_2.11-0.3.8-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-native/javalib_native0.3_2.11/0.3.8/javalib_native0.3_2.11-0.3.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-native" name="auxlib_native0.3_2.11">
+			<revision name="0.3.8" status="release" pubdate="20180716174624" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-native.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="4">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html"/>
+				<metadata-artifact status="no" details="" size="2834" time="0" location="/root/.ivy2/cache/org.scala-native/auxlib_native0.3_2.11/ivy-0.3.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-native/auxlib_native0.3_2.11/0.3.8/auxlib_native0.3_2.11-0.3.8.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="0.3.8" rev-constraint-default="0.3.8" rev-constraint-dynamic="0.3.8" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="auxlib_native0.3_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3150" time="0" location="/root/.ivy2/cache/org.scala-native/auxlib_native0.3_2.11/srcs/auxlib_native0.3_2.11-0.3.8-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-native/auxlib_native0.3_2.11/0.3.8/auxlib_native0.3_2.11-0.3.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-native" name="nativelib_native0.3_2.11">
+			<revision name="0.3.8" status="release" pubdate="20180716174215" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-native.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="2">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html"/>
+				<metadata-artifact status="no" details="" size="2832" time="0" location="/root/.ivy2/cache/org.scala-native/nativelib_native0.3_2.11/ivy-0.3.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-native/nativelib_native0.3_2.11/0.3.8/nativelib_native0.3_2.11-0.3.8.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="0.3.8" rev-constraint-default="0.3.8" rev-constraint-dynamic="0.3.8" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="nativelib_native0.3_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="127822" time="0" location="/root/.ivy2/cache/org.scala-native/nativelib_native0.3_2.11/srcs/nativelib_native0.3_2.11-0.3.8-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-native/nativelib_native0.3_2.11/0.3.8/nativelib_native0.3_2.11-0.3.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.12" status="release" pubdate="20171103033736" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2829" time="0" location="/root/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.12.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="0.1" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="567508" time="0" location="/root/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.12-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-zio_2.11">
+			<revision name="1.0-RC3" status="release" pubdate="20190329094403" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://scalaz.github.io/scalaz-zio/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3567" time="0" location="/root/.ivy2/cache/org.scalaz/scalaz-zio_2.11/ivy-1.0-RC3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-zio_2.11/1.0-RC3/scalaz-zio_2.11-1.0-RC3.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="1.0-RC3" rev-constraint-default="1.0-RC3" rev-constraint-dynamic="1.0-RC3" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="scalaz-zio_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="129187" time="0" location="/root/.ivy2/cache/org.scalaz/scalaz-zio_2.11/srcs/scalaz-zio_2.11-1.0-RC3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-zio_2.11/1.0-RC3/scalaz-zio_2.11-1.0-RC3-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.12" status="release" pubdate="20171103033730" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="6">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2656" time="0" location="/root/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.12.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom"/>
+				<caller organisation="default" name="scalanative-zio$sources" conf="compile, runtime" rev="2.11.12" rev-constraint-default="2.11.12" rev-constraint-dynamic="2.11.12" callerrev="0.1" extra-info.apiURL="http://www.scala-lang.org/api/2.11.12/"/>
+				<artifacts>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="912259" time="0" location="/root/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

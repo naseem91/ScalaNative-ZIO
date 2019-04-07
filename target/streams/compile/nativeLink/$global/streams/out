@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0mLinking (3476 ms)[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.App[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.App$class[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.App$class::$init$_scalaz.zio.App_unit[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.App$class::main_scalaz.zio.App_scala.scalanative.runtime.ObjectArray_unit[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.App::main_scala.scalanative.runtime.ObjectArray_unit[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.DefaultRuntime[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.DefaultRuntime$class[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.DefaultRuntime$class::$init$_scalaz.zio.DefaultRuntime_unit[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.Runtime[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.Runtime$class[0m
+[0m[[0m[31merror[0m] [0m[0mcannot link: @scalaz.zio.Runtime$class::$init$_scalaz.zio.Runtime_unit[0m
+[0m[[0m[31merror[0m] [0m[0munable to link[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mnativeLink[0m) unable to link[0m

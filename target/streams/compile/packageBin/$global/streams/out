@@ -1,0 +1,45 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/scalanative-zio_native0.3_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$1.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$1.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$run$1$$anonfun$apply$2$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$1.nir[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/naseem/Documents/SFreely NEW/ScalaNative-ZIO/target/scala-2.11/classes/Fiber$$anonfun$fib$2$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$1.nir[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
